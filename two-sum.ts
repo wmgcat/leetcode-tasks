@@ -10,4 +10,4 @@ function twoSum(nums: number[], target: number): number[] {
 		map.set(nums[i], i);
 	}
 	return [];
-};
+}

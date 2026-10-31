@@ -9,4 +9,4 @@ function isAnagram(s: string, t: string): boolean {
     }
 
     return [...memory.values()].every((value) => value == 0);
-};
+}
